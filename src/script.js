@@ -30,7 +30,7 @@ class MovieFinder extends React.Component {
     }).then((data) => {
       console.log(data);
     }).catch((error) => {
-      console.log(error);
+      console.log(error);7
     })
   }
   
